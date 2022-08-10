@@ -18,6 +18,8 @@ Ferramentas
 ☑️  https://github.com/remix-run/react-router
 ☑️  https://phosphoricons.com/
 ☑️  https://react-hook-form.com/
+☑️  https://github.com/colinhacks/zod
+
 
 Criação do projeto 
 
@@ -32,4 +34,6 @@ Criação do projeto
 ☑️ Lint a configuração package.json  rodar no terminal: npm run lint --fix
 ☑️ npm i react-router-dom 
 ☑️ npm i phosphor-react
-☑️ npm i react-hook-form
+☑️ npm i react-hook-form (Padrão não trás nada para validação)
+☑️ npm i zod
+☑️ npm i @hookform/resolvers
