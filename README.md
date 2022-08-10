@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Timer
+=======
+# time
+
+>>>>>>> 884f6fff58b1ad037e704d9476d813b878e9e8c4
 
 É uma aplicação com o conceito de pomodoro trabalhar em alguma tarefa por um tempo  especifico totalmente focado⏱ 
 
@@ -18,8 +23,11 @@ Ferramentas
 ☑️  https://github.com/remix-run/react-router
 ☑️  https://phosphoricons.com/
 ☑️  https://react-hook-form.com/
+<<<<<<< HEAD
 ☑️  https://github.com/colinhacks/zod
 
+=======
+>>>>>>> 884f6fff58b1ad037e704d9476d813b878e9e8c4
 
 Criação do projeto 
 
@@ -34,6 +42,10 @@ Criação do projeto
 ☑️ Lint a configuração package.json  rodar no terminal: npm run lint --fix
 ☑️ npm i react-router-dom 
 ☑️ npm i phosphor-react
+<<<<<<< HEAD
 ☑️ npm i react-hook-form (Padrão não trás nada para validação)
 ☑️ npm i zod
 ☑️ npm i @hookform/resolvers
+=======
+☑️ npm i react-hook-form
+>>>>>>> 884f6fff58b1ad037e704d9476d813b878e9e8c4
